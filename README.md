@@ -59,7 +59,3 @@ ID | symbol  | last_price  | next_funding_time
 
 Já para editar, listar, adicionar ou remover os itens no console, pode-se dar opções via comandos. Ex: 1 para deletar, 2 para editar, 3 para adicionar, 4 para listar todos os itens.
 Aí para alterar um item específico, pode-se utilizar o ID como referência. Neste caso, por exemplo, a sequência 2 [Enter] e 1 [Enter] permitira que eu Editasse o Item de Id 1.
-lucas.kssilveira@gmail.com Alternar conta
-
-A foto e o nome associados à sua Conta do Google serão registrados quando você fizer upload de arquivos e enviar este formulário.. Seu e-mail não faz parte da resposta.
-*Obrigatório
