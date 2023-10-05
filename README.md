@@ -1,7 +1,3 @@
-Apresentação do projeto de avaliação para vaga de backend na empresa WTLL feito pelo desenvolvedor Lucas Kaminski.
-
-Optei por fazer em node devido a minha familiariade com a ferramenta e seus built-in.
-
 Para rodar o projeto é necessário ter somente o node instalado, e atráves do comando a seguir ele será inicializado:
 
 ```
